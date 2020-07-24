@@ -3,7 +3,7 @@
 
 #### ¡ César Vargas Escorcia - Web Developer ! 
 
-##### Desarrollador web autodidacta interesado en aprender y manejar tecnologías como:  
+##### Desarrollador web autodidacta inicando el manejo de tecnologías como:  
 ```
 Java
   * Spring
@@ -29,3 +29,4 @@ JavaScript
       
   ```
 
+### Es sólo el comienzo.... 
