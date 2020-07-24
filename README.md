@@ -1,16 +1,31 @@
-### Este viaje apenas inicia  :blush: !!!
+## Este viaje apenas inicia  :blush: !!!
 
-```
-##  ¡ César Vargas Escorcia - Web Developer ! 
-```
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### ¡ César Vargas Escorcia - Web Developer ! 
+
+##### Desarrollador web autodidacta interesado en aprender y manejar tecnologías como:  
+```
+Java
+  * Spring
+  
+SQL
+  * MySQL
+  
+NoSQL
+  * MongoDB
+    
+HTML
+   
+CSS
+  * SASS
+  * LESS
+  * Bootstrap
+  * Materialaze.
+    .
+JavaScript
+  * Vainilla
+  * React
+  * Node
+      
+  ```
+
